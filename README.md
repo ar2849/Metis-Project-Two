@@ -22,7 +22,7 @@ Features:
 **Data Used**
 
  - Box Office Mojo by IMDB data
-The Numbers
+ - The Numbers
 
 **Tools Used**
 
@@ -39,3 +39,7 @@ The Numbers
 **Impacts in the scope of the project:**
  - To create a prediction model for total domestic gross in the United States
  - To determine the salient features for predicting Domestic Box Office Revenues in the United States
+ 
+ **Workflow**
+ 
+ Created databases using the Numbers webpage and Box Office Mojo, which are noted in their respective jupyter notebooks. Then joined the datasets and conduct cleaning, preprocessing, EDA, and linear regression within the Regression notebook. 
